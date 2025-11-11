@@ -1,6 +1,6 @@
 <?php 
 
-class ContatoDAO{
+class contatoDao{
 
 }
 ?>

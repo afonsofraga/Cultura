@@ -1,6 +1,6 @@
 <?php 
 
-class DocumentoDAO {
+class documentoDao {
 
 
 }

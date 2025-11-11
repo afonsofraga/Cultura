@@ -1,6 +1,6 @@
 <?php 
 
-class ModalidadeDAO{
+class modalidadeDao{
 
 }
 ?>

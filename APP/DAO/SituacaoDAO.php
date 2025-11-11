@@ -1,6 +1,6 @@
 <?php 
 
-class SituacaoDAO{
+class situacaoDao{
 
 }
 ?>

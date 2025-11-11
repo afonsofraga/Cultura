@@ -1,6 +1,6 @@
 <?php 
 
-class NivelAcessoDAO{
+class nivelAcessoDao{
 
 }
 ?>

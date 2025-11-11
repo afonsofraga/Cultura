@@ -1,6 +1,6 @@
 <?php 
 
-class Boleto{
+class boletoDao{
 
 }
 ?>

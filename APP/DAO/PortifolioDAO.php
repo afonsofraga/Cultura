@@ -1,6 +1,6 @@
 <?php 
 
-class PortifolioDAO{
+class portifolioDao{
 
 }
 ?>
