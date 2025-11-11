@@ -1,6 +1,6 @@
 <?php 
 
-class ContratoController{
+class contratoController{
 
 }
 ?>

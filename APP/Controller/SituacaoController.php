@@ -1,6 +1,6 @@
 <?php 
 
-class SituacaoController{
+class situacaoController{
 
 }
 ?>

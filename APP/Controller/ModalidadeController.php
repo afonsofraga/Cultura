@@ -1,6 +1,6 @@
 <?php 
 
-class ModalidadeController{
+class modalidadeController{
 
 }
 ?>

@@ -1,6 +1,6 @@
 <?php 
 
-class NivelAcessoController{
+class nivelAcessoController{
 
 }
 ?>

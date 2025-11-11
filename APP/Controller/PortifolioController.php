@@ -1,6 +1,6 @@
 <?php 
 
-class PortifolioController{
+class portifolioController{
 
 }
 ?>
